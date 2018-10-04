@@ -1,3 +1,4 @@
+ ## Jeff's Notes
  - How to use edited package.json
  - Paste  karyfoundation.comment-7.0.0 folder into .vscode/extensions
  - may have to install comment v on vscode extensions and replace package.json in karyfoundation.comment-7.0.0 folder.
