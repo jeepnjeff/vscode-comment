@@ -1,4 +1,7 @@
-
+ How to use edited package.json
+ Paste  karyfoundation.comment-7.0.0 folder into .vscode/extensions
+ may have to install comment v on vscode extensions and replace package.json in karyfoundation.comment-7.0.0 folder.
+ 
 # Comment V for Visual Studio Code
 
 <img src="https://user-images.githubusercontent.com/2157285/28877787-ace1415e-77b2-11e7-81fa-e4d3d7af50ec.gif" width="600" />
